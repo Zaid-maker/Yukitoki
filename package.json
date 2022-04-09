@@ -27,7 +27,7 @@
     "fuse.js": "^6.4.6",
     "highlight.js": "^11.2.0",
     "lodash": "^4.17.21",
-    "marked": "^3.0.3",
+    "marked": "^4.0.13",
     "npm-run-all": "^4.1.5",
     "postcss": "^8.3.6",
     "postcss-load-config": "^3.1.0",
